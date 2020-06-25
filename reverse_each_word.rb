@@ -6,6 +6,4 @@ def reverse_each_word(string)
   end
   reversed_setnence.join(" ")
   
-  
-  
 end 
