@@ -1,3 +1,3 @@
 def reverse_each_word(sentence)
-  return "olleH ,ereht dna woh era ?uoy"
+  words_array = sentence.split(" ")
 end 
