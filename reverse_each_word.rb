@@ -6,3 +6,4 @@ end
 string_array.join(" ")
 end 
   reverse_each_word(sentence)
+end 
