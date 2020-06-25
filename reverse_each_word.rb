@@ -4,4 +4,5 @@ def reverse_each_word(sentence)
   array.collect do |string| string_array<< string.reverse 
 end 
 string_array.join(" ")
-  sentence_to_array.collect 
+end 
+  reverse_each_word
